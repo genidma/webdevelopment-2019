@@ -1,8 +1,10 @@
 h1 {font-family: Verdana, sans-serif; color: blue; font-size: 200%}
 
-h2 {font-family: sans-serif;, sans-serif; color: Orange; font-size: 100%}
+h2 {font-family: sans-serif, sans-serif; color: Orange; font-size: 100%}
 
-h3 {font-family: cursive;, cursive; color: green; font-size: 100%}
+h3 {font-family: cursive, cursive; color: green; font-size: 100%}
+
+h4 {font-family: fantasy, cursive; color: purple; font-size: 100%}
 
 img {
 	vertical-align: middle;
